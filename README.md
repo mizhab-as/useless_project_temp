@@ -35,17 +35,24 @@ For Hardware:
 
 ### Implementation
 For Software:
+flutter pub get
+flutter doctor
+
 
 # Installation
-[commands]
+flutter run
+flutter build web
+
 
 # Run
-[commands]
+flutter run -d chrome
+
 
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+[3](https://github.com/user-attachments/assets/22aeb0f6-e3b9-4dad-8b5d-eefbfa62a225)
+
 ![Screenshot1](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
