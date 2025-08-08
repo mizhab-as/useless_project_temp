@@ -5,35 +5,33 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: ALT+F4
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Mizhab A S - MITS
+- Member 2: ZAIN SULEIMAN - MITS
 
 ### Project Description
-[2-3 lines about what your project does]
+ALTITUDE is a web app that takes your height in centimeters and tells you how many pizzas, pencils, or iPhones tall you are. It ditches boring units like feet and inches for stuff you actually understand. Because honestly, who measures themselves in centimeters when they could use grillas?
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+People know their height in centimeters, but have no idea how that compares to a stack of pizzas or a line of pencils—and it’s ruining lives. Conversations are awkward, bios are bland, and measuring tapes are boring. The world is desperately lacking a way to express height using absurd, everyday objects—and we decided to fix that.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We built a web app that converts your height from centimeters into things that actually matter—like pizzas, pencils, iPhones, and grillas. Just type in your height, and we’ll instantly tell you how many toothbrushes tall you are.
+It’s wildly unscientific, deeply unnecessary, and absolutely what the internet needed.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Languages: Flutter, Dart
+- Frameworks: Node.js
+- Libraries: Math, Flask, Maybe a bit of JS
+- Tools: VS Code, Postman, ChatGPT-fueled chaos
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Laptops, USB cables and a working android phone.
 
 ### Implementation
 For Software:
