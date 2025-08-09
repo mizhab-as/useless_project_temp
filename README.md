@@ -51,47 +51,60 @@ flutter run -d chrome
 ### Project Documentation
 For Software:
 
-[3](https://github.com/user-attachments/assets/22aeb0f6-e3b9-4dad-8b5d-eefbfa62a225)
+Screenshot 1:
+![3](https://github.com/user-attachments/assets/22aeb0f6-e3b9-4dad-8b5d-eefbfa62a225)
+UI DESIGN
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+Screenshot 2:
+![2](https://github.com/user-attachments/assets/75c3476d-66cf-479c-9ed2-a00633eafeb9)
+USER PROMPT INPUT AND OUTPUT
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+Screenshot 3:
+![1](https://github.com/user-attachments/assets/457ca019-3a34-418d-85fa-583ea54577cf)
+CONVERSION UNITS AVAILABLE
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+Workflow
+<img width="2085" height="3169" alt="Diagram" src="https://github.com/user-attachments/assets/8fb20d3f-5f8c-49ce-8d09-77f96d2e2035" />
+
 
 For Hardware:
-
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+START
+  │
+  ├─[User Opens App] → Show Cyberpunk Loading Animation
+  │                       │
+  │                       ↓
+  │                   Display Home Screen
+  │                       │
+  │                       ├─[User Enters Name & Height] → Validate Input
+  │                       │       │
+  │                       │       ↓
+  │                       │   [Convert Button Pressed]
+  │                       │       │
+  │                       │       ├─[Invalid Input] → Show Error (Neon Red Pulse)
+  │                       │       │
+  │                       │       ↓
+  │                       │   [Valid Input] → Process Conversion
+  │                       │       │
+  │                       │       ↓
+  │                       │   Display Result Card with:
+  │                       │       - Unit Conversion (e.g., "23.5 SYNTH BANANAS")
+  │                       │       - Emoji Visual
+  │                       │       - Convert Again Button
+  │                       │
+  │                       ↓
+  │                   [Convert Again] → Clear Form
+  │
+  └─[Exit App] → End
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - [Name 1]: [Specific contributions]
