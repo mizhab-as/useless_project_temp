@@ -84,7 +84,6 @@ For Hardware:
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/8e18e648-3606-4498-af94-0a603a7fd461" />
 
 
-
 ### Project Demo
 # Video
 
