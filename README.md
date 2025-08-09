@@ -9,7 +9,7 @@
 
 
 ### Team Members
-- Team Lead: Mizhab A S - MITS
+- Mmeber 1: Mizhab A S - MITS
 - Member 2: ZAIN SULEIMAN - MITS
 
 ### Project Description
@@ -52,15 +52,24 @@ flutter run -d chrome
 For Software:
 
 Screenshot 1:
+
 ![3](https://github.com/user-attachments/assets/22aeb0f6-e3b9-4dad-8b5d-eefbfa62a225)
+
+
 UI DESIGN
 
 Screenshot 2:
+
 ![2](https://github.com/user-attachments/assets/75c3476d-66cf-479c-9ed2-a00633eafeb9)
+
+
 USER PROMPT INPUT AND OUTPUT
 
 Screenshot 3:
+
 ![1](https://github.com/user-attachments/assets/457ca019-3a34-418d-85fa-583ea54577cf)
+
+
 CONVERSION UNITS AVAILABLE
 
 
@@ -71,45 +80,19 @@ Workflow
 
 For Hardware:
 # Schematic & Circuit
-START
-  │
-  ├─[User Opens App] → Show Cyberpunk Loading Animation
-  │                       │
-  │                       ↓
-  │                   Display Home Screen
-  │                       │
-  │                       ├─[User Enters Name & Height] → Validate Input
-  │                       │       │
-  │                       │       ↓
-  │                       │   [Convert Button Pressed]
-  │                       │       │
-  │                       │       ├─[Invalid Input] → Show Error (Neon Red Pulse)
-  │                       │       │
-  │                       │       ↓
-  │                       │   [Valid Input] → Process Conversion
-  │                       │       │
-  │                       │       ↓
-  │                       │   Display Result Card with:
-  │                       │       - Unit Conversion (e.g., "23.5 SYNTH BANANAS")
-  │                       │       - Emoji Visual
-  │                       │       - Convert Again Button
-  │                       │
-  │                       ↓
-  │                   [Convert Again] → Clear Form
-  │
-  └─[Exit App] → End
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/8e18e648-3606-4498-af94-0a603a7fd461" />
+
 
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+
+https://github.com/user-attachments/assets/a23e7f49-cef4-4826-acc5-e8e670b396e9
 
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+Its a sample short video that explain the basic workings of this random height converter app called altitude.
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
